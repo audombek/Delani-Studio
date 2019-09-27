@@ -1,0 +1,14 @@
+.container-fluid{
+background-image: url("../images/h_img.jpg");
+background-size: cover;
+background-repeat: no-repeat
+}
+.container-fluid h4{
+    text-align: center;
+    color:white;
+}
+.container-fluid p{
+    text-align: center;
+    color:white;
+}
+  
