@@ -1,3 +1,8 @@
+*{
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+}
 .container-fluid{
 background-image: url("../images/h_img.jpg");
 background-size: cover;
@@ -11,4 +16,37 @@ background-repeat: no-repeat
     text-align: center;
     color:white;
 }
-  
+.card1{
+    text-align: center;
+}
+.card2{
+    background-image: url("../images/s_image.jpg");
+    background-size:cover;
+    text-align: center;
+    color:white;
+}
+.container h3{
+    text-align: center;
+    padding-top:50px;
+}
+.click1{
+    display:none;
+}
+.click2{
+    display:none;
+}
+.click3{
+    display:none;
+}
+.card2 h4{
+    padding-top:150px;
+}
+.card4 h3{
+    text-align:center;
+}
+.card4{
+    margin-left:60px;
+    margin-right:60px;
+    margin-bottom: 60px;
+
+}
