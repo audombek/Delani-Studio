@@ -26,6 +26,7 @@ background-repeat: no-repeat
     color:white;
 }
 .container h3{
+    position: relative;
     text-align: center;
     padding-top:50px;
 }
@@ -53,5 +54,32 @@ background-repeat: no-repeat
 }
 .card5{
     background-image: url(../images/c_image.jpg);
-
+    background-size:cover;
+    text-align: center;
+    padding-bottom:100px;
 }
+.card5 form textarea{
+    margin-top:20px;
+    width:800px;
+}
+.card5 form input{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:20px;
+}
+.card5 h4{
+    margin-top:50px;
+    color:white;
+}
+.footer {
+    margin-top:20px;
+    display: inline-block;
+}
+   
+.footer img{
+    padding:15px;
+}
+.footer h6{
+    text-align: center;
+}
+
