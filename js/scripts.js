@@ -23,6 +23,9 @@ $(document).ready(function(event){
         $(".sec3").show();
         $(".click3").hide();
      });
- 
+     $(".frm1").submit(function(){
+         var name =$("input#name").val();
+         alert(name+" we have received your message. Thank you for reaching out to us.");
+     });
      event.preventDefault(); 
 });
