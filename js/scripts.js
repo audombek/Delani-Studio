@@ -1,15 +1,27 @@
 $(document).ready(function(event){
     $("#design").click(function(){
-        $(".sec1").toggle();
-        $(".click1").toggle();
+        $(".sec1").hide();
+        $(".click1").show();
+    });
+    $("#design1").click(function(){
+        $(".sec1").show();
+        $(".click1").hide();
     });
     $("#dev").click(function(){
-        $(".sec2").toggle();
-        $(".click2").toggle();
+        $(".sec2").hide();
+        $(".click2").show();
+    });
+    $("#dev1").click(function(){
+        $(".sec2").show();
+        $(".click2").hide();
     });
      $("#product").click(function(){
-        $(".sec3").toggle();
-        $(".click3").toggle();
+        $(".sec3").hide();
+        $(".click3").show();
+     });
+     $("#product1").click(function(){
+        $(".sec3").show();
+        $(".click3").hide();
      });
  
      event.preventDefault(); 
