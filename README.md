@@ -4,7 +4,8 @@
 Audrey Ombek-upcoming software engineer.
 ### Description.
 Delani studio is a one page website made up of six sections.The first part is landing page where we have the logo of the studio,followed by an about us section which generally describes the organization,then the services section which describes the services they offer.
-It is then folowed by what we do section which includes design,development and product management.It then has a portfolio section which  showcases some of their achievements and work they have done.The contact us section follows next which allows any visitor to the page to leave feedback.Lastly its the footer which provides contacts that can be used to reach the organization.
+
+It is then folowed by what we do section which includes design,development and product management.It then has a portfolio section which  showcases some of their achievements and work they have done.The contact us section follows next which allows any visitor to the page to leave feedback.Lastly it has the footer which provides contacts that can be used to reach the organization.
 ### Setup.
 Clone this repository to your computer,delete the .git directory and initialize your own git directory then run it.
 ### Dependecies.
