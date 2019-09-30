@@ -66,15 +66,31 @@ background-repeat: no-repeat
     text-align:center;
     margin-bottom:20px;
 }
-.card4{
+  .card4{
     margin-left:180px;
-    margin-right:150px;
+    margin-right:100px;
     margin-bottom: 70px;
     margin-top:20px;
-}
+}  
 .card4 h3{
     font-weight: 800;
 }
+.img{
+    width:240px;
+}
+.img:hover{
+    opacity: 0.03;
+}
+
+.projName{
+    position: absolute;
+    top: 50%;
+    left:50%; 
+    opacity: 0.55%;
+    background:white;
+    transform: translate(-50%,-50%);
+}  
+
 .card5{
     background-image: url(../images/c_image.jpg);
     background-size:cover;
@@ -111,5 +127,4 @@ background-repeat: no-repeat
 .footer1 p{
     margin-top:40px;
 }
-
 
